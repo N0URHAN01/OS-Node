@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crypt00o/OS-Management-Dashboard-Base.git"
+    "url": "git+https://github.com/N0URHAN01/OS-Node.git"
   },
-  "author": "Crypt00o",
-  "license": "GPL-3.0-or-later",
+  "author": "N0URHAN01",
   "bugs": {
-    "url": "https://github.com/Crypt00o/OS-Management-Dashboard-Base/issues"
+    "url": "https://github.com/N0URHAN01/OS-Node/issues"
   },
-  "homepage": "https://github.com/Crypt00o/OS-Management-Dashboard-Base#readme"
+  "homepage": "https://github.com/N0URHAN01/OS-Node#readme"
 }
